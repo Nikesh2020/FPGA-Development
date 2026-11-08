@@ -1,1 +1,1 @@
--- Working on CORDIC sine implementation
+-- CORDIC sine implementation (feature branch edit)
