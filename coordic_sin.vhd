@@ -1,1 +1,2 @@
--- CORDIC sine implementation (main branch edit)
+-- CORDIC sine implementation (feature branch + main combined)
+
